@@ -94,11 +94,11 @@ This project explores a COMSOL-based biophysical simulation of the electrocardio
 
 | File | Description |
 |------|-------------|
-| `HW4-COMSOL-1.mph` | Model file for Parts 1–4 |
-| `HW4-COMSOL-2.mph` | Water immersion model (Part 5) |
-| `HW4-Movie-1.gif` | Dipole separation animation |
-| `HW4-Movie-2.gif` | Dipole angle animation |
-| `HW4-Movie-3.gif` | QRS loop animation |
+| `COMSOL-1.mph` | Model file for Parts 1–4 |
+| `COMSOL-2.mph` | Water immersion model (Part 5) |
+| `Movie-1.gif` | Dipole separation animation |
+| `Movie-2.gif` | Dipole angle animation |
+| `Movie-3.gif` | QRS loop animation |
 | `electrode_data.xlsx` | Raw voltage data from COMSOL |
 
 ---
