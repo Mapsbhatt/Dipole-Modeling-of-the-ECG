@@ -84,7 +84,7 @@ This project explores a COMSOL-based biophysical simulation of the electrocardio
 - Simulated torso surrounded by river water
 - Compared QRS signal vs. baseline air environment
 
-![Fig 5](assets/fig5_water_effect.png)
+![Fig 5](assets/fig4_qrs_plot.png)
 
 > Electrodes show reduced voltage contrast due to greater shunting in conductive surroundings
 
