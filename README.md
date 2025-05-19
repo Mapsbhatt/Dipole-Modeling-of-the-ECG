@@ -38,9 +38,6 @@ This project explores a COMSOL-based biophysical simulation of the electrocardio
 ![Fig 1B](assets/fig1b.png)
 ![Fig 1C](assets/fig1c.png)
 
-📈 **Voltage Table**:
-(see [`electrode_data.xlsx`](./assets/electrode_data.xlsx))
-
 ---
 
 ### 🧲 Part 2: Varying Dipole Separation
