@@ -76,7 +76,7 @@ This project explores a COMSOL-based biophysical simulation of the electrocardio
 
 ---
 
-### 🌊 Part 5: Immersion in Conductive Medium (Extra Credit)
+### 🌊 Part 5: Immersion in Conductive Medium 
 
 - Simulated torso surrounded by river water
 - Compared QRS signal vs. baseline air environment
